@@ -1,0 +1,2 @@
+# locStore
+like
